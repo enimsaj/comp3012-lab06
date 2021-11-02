@@ -1,0 +1,24 @@
+{
+  "movies": [
+    { "name": "Inception",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+    { "name": "Spiderman",
+      "description": "Maecenas eget leo non diam feugiat suscipit."},
+    { "name": "The Dark Knight",
+      "description": "Sed fringilla ligula nec diam interdum finibus."},
+    { "name": "Tennet",
+      "description": "Vivamus venenatis dui ut ante laoreet tincidunt."},
+    { "name": "Star Wars",
+      "description": "Cras tempor lacus sit amet ante mattis tempus."},
+    { "name": "Harry Potter",
+      "description": "In a mi aliquam, ullamcorper lacus egestas, ultricies ipsum."},
+    { "name": "Transformers",
+      "description": "Nulla tincidunt sapien vitae sapien faucibus aliquet."},
+    { "name": "Gladiator",
+      "description": "Morbi euismod augue vel tellus laoreet porttitor."},
+    { "name": "Avengers",
+      "description": "Ut nec ante finibus, commodo nunc vel, mollis eros."},
+    { "name": "Dune",
+      "description": "Sed ut velit facilisis, tempus mauris sed, facilisis ex."}
+  ]
+}
